@@ -1,0 +1,15 @@
+{
+  "name": "academy.com",
+  "version": "1.0.0",
+  "description": "E-learning coaching services website offering courses for JEE Mains, NEET, and Civil Services preparation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
